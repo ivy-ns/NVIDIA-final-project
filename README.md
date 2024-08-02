@@ -15,4 +15,4 @@ Currently, there are many trends surrounding skincare, resulting in the purchase
 - run in vs code by importing a picture of a face/skin into vs code and then use the python3 command to run
 
 # Video explanation
-[videp] (https://drive.google.com/file/d/1OCziFsPUf3HOnIVugaiQkcsWhAfUypXB/view?usp=sharing) 
+[video] (https://drive.google.com/file/d/1OCziFsPUf3HOnIVugaiQkcsWhAfUypXB/view?usp=sharing) 
